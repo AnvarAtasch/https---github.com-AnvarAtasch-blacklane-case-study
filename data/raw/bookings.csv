@@ -1,0 +1,4 @@
+booking_uuid,chauffeur_uuid,booking_start_time,booking_end_time,booked_duration,pickup_latitude,pickup_longitude,dropoff_latitude,dropoff_longitude
+bk_001,chf_001,2024-01-01 09:00:00,2024-01-01 10:00:00,1.0,52.52,13.40,52.51,13.42
+bk_002,chf_002,2024-01-01 10:00:00,2024-01-01 11:30:00,1.5,52.51,13.38,52.50,13.45
+bk_003,chf_003,2024-01-01 08:00:00,2024-01-01 09:30:00,1.5,52.53,13.41,52.49,13.39

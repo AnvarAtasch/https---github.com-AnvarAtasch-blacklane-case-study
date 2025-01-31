@@ -1,0 +1,4 @@
+shift_id,chauffeur_uuid,shift_working_hours,hourly_rate_eur,shift_start_time,shift_end_time
+1,chf_001,8,25,2024-01-01 08:00:00,2024-01-01 16:00:00
+2,chf_002,6,30,2024-01-01 09:00:00,2024-01-01 15:00:00
+3,chf_003,10,22,2024-01-01 07:00:00,2024-01-01 17:00:00
